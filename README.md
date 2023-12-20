@@ -15,7 +15,7 @@ Tomović, N. (2022). THE PLACE OF AMERICAN ENGLISH IN EUROPEAN EDUCATION. Komuni
 
 **Research question:**
 
-Is There a relation between the preferred ‘World English’ and where it is spoken?
+Is there a relation between the preferred ‘World English’ and where it is spoken?
 
 Variables: 
 
