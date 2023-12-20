@@ -18,5 +18,7 @@ This paper looks into European education, it explains arguments on why to use Am
 Is There a relation between the preferred ‘World English’ and where it is spoken?
 
 Variables: 
+
 •	The preferred ‘World English’
+
 •	The country where it is spoken. (more specifically explained in methods)
