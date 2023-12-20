@@ -22,3 +22,13 @@ Variables:
 •	The preferred ‘World English’
 
 •	The country where it is spoken. (more specifically explained in methods)
+
+**Hypothesis:**
+In different countries, there is a preference for a different variant of English. (so one is used more frequently than the other)
+
+**Method:**
+
+I want to solve this question in Google N-Grams. In here there’s options to search through literature of different countries. So I will try to find trends in literature of different European countries which are available. Specifically: German, French and Italian. With this I want to find out whether these countries use more British English or American English.
+
+
+
