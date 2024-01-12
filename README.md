@@ -1,7 +1,7 @@
 # Milestone 5, Edwin de Jong
 **Abstract:**
 
-In this project I will do research about ‘World Englishes’. Specifically about the differences in American English and British English. Over the years American English has become more popular, while British English is the root of all the ‘World Englishes’. I want to figure out whether there is a link between the preferred English variant in countries. A lot of countries might have been Americanised since the country with the main focus. But there might still be countries which heavily rely on the British English variant.
+In this project I will do research about ‘World Englishes’. Specifically about the use of 'American English in the 'British English' language. Over the years American English has become more popular, while British English is the root of all the ‘World Englishes’. I want to figure out whether there is a correlation between the growth of 'American English' and the use of 'American English' in 'British English'. In other words, are americanised english words used in British English. A lot of countries might have been Americanised since it has become the main focused country, however is this also the case for England.
 
 **Previous work:**
 
