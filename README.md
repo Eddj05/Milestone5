@@ -1,4 +1,4 @@
-# Milestone 5, Edwin de Jong
+# Americanisation within British English, Edwin de Jong
 **Abstract:**
 
 In this project I will do research about ‘World Englishes’. Specifically about the use of 'American English in the 'British English' language. Over the years American English has become more popular, while British English is the root of all the ‘World Englishes’. I want to figure out whether there is a correlation between the growth of 'American English' and the use of 'American English' in 'British English'. In other words, are americanised english words used in British English. A lot of countries might have been Americanised since it has become the main focused country, however is this also the case for England.
